@@ -1,0 +1,41 @@
+check_id,category,table_name,description,severity,rows_flagged,status
+DT01,Inconsistent date,encounters,encounter stop before start,High,8,FAIL
+DT02,Inconsistent date,encounters,encounter start before patient birthdate,Critical,6,FAIL
+DT03,Inconsistent date,encounters,encounter start more than 1 day after patient deathdate (excl. Death Certification),Critical,216,FAIL
+DT04,Inconsistent date,encounters,encounter start after data reference date (2026-09-30),High,136,FAIL
+DT05,Inconsistent date,patients,deathdate before birthdate,Critical,2,FAIL
+DT06,Inconsistent date,patients,birthdate after data reference date,Critical,0,PASS
+DT07,Inconsistent date,procedures,procedure starts before its encounter or >24h after encounter stop,Medium,100,FAIL
+DT08,Inconsistent date,procedures,procedure stop before start,Medium,0,PASS
+DT09,Inconsistent date,conditions,condition stop before start,Medium,4,FAIL
+DT10,Inconsistent date,medications,medication stop before start,Medium,78,FAIL
+DT11,Inconsistent date,immunizations,immunization date differs from its encounter date,Medium,52,FAIL
+DU01,Duplicate identifier,patients,patients.id appears more than once,Critical,8,FAIL
+DU02,Duplicate identifier,encounters,encounters.id appears more than once,Critical,24,FAIL
+DU03,Duplicate identifier,providers,providers.id appears more than once,High,4,FAIL
+DU04,Duplicate identifier,organizations,organizations.id appears more than once,High,0,PASS
+DU05,Duplicate identifier,payers,payers.id appears more than once,High,0,PASS
+DU06,Duplicate identifier,encounters,exact duplicate encounter row (all fields equal),High,16,FAIL
+DU07,Duplicate identifier,procedures,same patient + encounter + code + start recorded twice,Medium,8,FAIL
+DU08,Duplicate identifier,immunizations,same patient + vaccine code + date recorded twice,Medium,4,FAIL
+MK01,Missing key,patients,patients.id is null,Critical,0,PASS
+MK02,Missing key,encounters,encounters.id is null,Critical,0,PASS
+MK03,Missing key,encounters,encounters.patient is null,Critical,8,FAIL
+MK04,Missing key,encounters,encounters.provider is null,High,6,FAIL
+MK05,Missing key,encounters,encounters.organization is null,High,5,FAIL
+MK06,Missing key,encounters,encounters.payer is null,High,5,FAIL
+MK07,Missing key,providers,providers.organization is null,Medium,0,PASS
+MK08,Missing key,conditions,conditions.patient or .encounter is null,High,4,FAIL
+MK09,Missing key,procedures,procedures.patient or .encounter is null,High,4,FAIL
+MK10,Missing key,medications,medications.patient or .encounter is null,High,0,PASS
+MK11,Missing key,immunizations,immunizations.patient or .encounter is null,High,3,FAIL
+OR01,Orphan record,encounters,encounters.patient not found in patients,Critical,8,FAIL
+OR02,Orphan record,encounters,encounters.provider not found in providers,High,5,FAIL
+OR03,Orphan record,encounters,encounters.organization not found in organizations,High,5,FAIL
+OR04,Orphan record,encounters,encounters.payer not found in payers,High,3,FAIL
+OR05,Orphan record,providers,providers.organization not found in organizations,Medium,3,FAIL
+OR06,Orphan record,conditions,conditions.encounter not found in encounters,High,0,PASS
+OR07,Orphan record,procedures,procedures.encounter not found in encounters,High,5,FAIL
+OR08,Orphan record,medications,medications.encounter not found in encounters,High,4,FAIL
+OR09,Orphan record,immunizations,immunizations.encounter not found in encounters,High,0,PASS
+OR10,Orphan record,clinical events,event patient differs from its encounter's patient,High,40,FAIL

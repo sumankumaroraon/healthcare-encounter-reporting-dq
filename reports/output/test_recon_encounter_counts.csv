@@ -1,0 +1,12 @@
+step,description,join_type,row_count,change_vs_previous_step,change_vs_source,status
+1,Source: encounters table,base,64634,,0,PASS
+2,INNER JOIN patients,inner,64814,180,180,FAIL
+3,+ INNER JOIN providers,inner,67106,2292,2472,FAIL
+4,+ INNER JOIN organizations,inner,67096,-10,2462,FAIL
+5,+ INNER JOIN payers,inner,67087,-9,2453,FAIL
+6,Reporting view vw_encounter_detail (4 LEFT JOINs),left,67134,47,2500,FAIL
+7,Distinct encounter IDs in vw_encounter_detail,distinct,64622,-2512,-12,FAIL
+8,Roll-up: SUM(vw_encounter_class_summary.encounters),rollup,67134,2512,2500,FAIL
+9,Roll-up: SUM(vw_encounter_volume_monthly.encounters),rollup,67134,0,2500,FAIL
+10,Roll-up: SUM(vw_encounter_by_payer.encounters),rollup,67134,0,2500,FAIL
+11,Roll-up: SUM(vw_patient_utilization.encounters),rollup,67134,0,2500,FAIL

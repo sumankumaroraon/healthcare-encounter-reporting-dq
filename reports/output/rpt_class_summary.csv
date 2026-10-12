@@ -1,0 +1,11 @@
+encounterclass,encounters,pct_of_encounters,unique_patients,encounters_per_patient,median_duration_min,avg_claim_cost,payer_covered_pct
+ambulatory,35333,54.68,1121,31.52,63.3,3455.93,78.8
+wellness,13646,21.12,1141,11.96,38.9,1159.56,57.0
+outpatient,8492,13.14,1052,8.07,15.0,1516.30,70.5
+urgentcare,2757,4.27,449,6.14,37.1,1041.08,77.4
+emergency,2630,4.07,806,3.26,60.0,3366.49,75.7
+inpatient,997,1.54,392,2.54,4897.0,23722.06,84.8
+home,249,0.39,14,17.79,15.0,663.06,88.0
+virtual,193,0.30,90,2.14,15.0,579.67,77.3
+snf,170,0.26,156,1.09,23055.0,17315.44,76.1
+hospice,155,0.24,130,1.19,29072.0,11524.79,85.2

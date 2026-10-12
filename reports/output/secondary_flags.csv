@@ -1,0 +1,323 @@
+check_id,table_name,row_id,record_key,detail,trace
+DT03,encounters,13524,4eb66f01-8120-86a9-654b-6e17936f73eb,1994-01-06 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13525,4eb66f01-8120-86a9-b86d-24f12d492232,1994-01-13 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13526,4eb66f01-8120-86a9-096c-c9c2d04f38fc,1994-01-27 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13527,4eb66f01-8120-86a9-7841-df49e6031d93,1994-02-10 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13528,4eb66f01-8120-86a9-05b8-c69cfe397941,1994-08-04 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13529,4eb66f01-8120-86a9-e6dd-0edfe6c4ddf0,1994-08-18 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13530,4eb66f01-8120-86a9-c0f7-2e78f2c426fd,1994-08-19 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13531,4eb66f01-8120-86a9-8f1c-07e4804eda3f,1994-10-26 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13532,4eb66f01-8120-86a9-3247-3ed571a28208,1994-11-17 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13535,4eb66f01-8120-86a9-e8b2-8fff6b9ac205,1995-04-20 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13536,4eb66f01-8120-86a9-48be-431ab8227a7e,1995-08-10 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13537,4eb66f01-8120-86a9-914c-d5d12b4b05a0,1995-08-24 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13538,4eb66f01-8120-86a9-4a68-b2961fcf48b5,1995-08-31 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13539,4eb66f01-8120-86a9-44de-4f3126c84705,1995-11-18 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13540,4eb66f01-8120-86a9-7039-aa36c57c4ab2,1995-11-24 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13541,4eb66f01-8120-86a9-6068-14a447503bb7,1995-12-05 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13542,4eb66f01-8120-86a9-0a27-92de0b1cdc0e,1996-01-03 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13543,4eb66f01-8120-86a9-083f-70934831e6b4,1996-02-05 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13544,4eb66f01-8120-86a9-cb11-36832d6dea90,1996-03-09 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13545,4eb66f01-8120-86a9-8743-ec5eeb6a0871,1996-04-12 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13546,4eb66f01-8120-86a9-f0d2-18d52e33a355,1996-05-09 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13547,4eb66f01-8120-86a9-3626-e5ec31a02876,1996-05-12 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13548,4eb66f01-8120-86a9-a119-165b3a4ee352,1996-06-14 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13549,4eb66f01-8120-86a9-6dd5-b6face991368,1996-08-15 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13550,4eb66f01-8120-86a9-defd-2c89ec5b7ce7,1996-08-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13551,4eb66f01-8120-86a9-3220-0898a11d28b7,1996-08-30 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13552,4eb66f01-8120-86a9-66c6-117da8221c74,1997-05-08 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13553,4eb66f01-8120-86a9-4b2b-58a026e50874,1997-05-22 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13554,4eb66f01-8120-86a9-1dc4-5ffb71add303,1997-06-08 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13555,4eb66f01-8120-86a9-732b-d844daa992de,1997-06-19 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13556,4eb66f01-8120-86a9-4445-6876059ae0b4,1997-06-26 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13557,4eb66f01-8120-86a9-8cf2-69ca9b9efc35,1997-07-03 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13558,4eb66f01-8120-86a9-97f8-b77b1bc2d721,1997-08-21 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13559,4eb66f01-8120-86a9-47e6-a4ace9275a46,1997-09-04 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13560,4eb66f01-8120-86a9-fcad-3826495ec319,1997-09-11 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13561,4eb66f01-8120-86a9-7b15-b9dab8631ad8,1997-10-02 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13562,4eb66f01-8120-86a9-f4dd-de510a2f8a8f,1998-01-01 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13563,4eb66f01-8120-86a9-f231-98602044ecf6,1998-01-15 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13564,4eb66f01-8120-86a9-67e3-28dbadafcdda,1998-07-02 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13565,4eb66f01-8120-86a9-d208-2634d5ae58f4,1998-07-16 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13566,4eb66f01-8120-86a9-f41a-34c392c43be3,1998-08-17 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13567,4eb66f01-8120-86a9-c32a-f0ca162d4db9,1998-08-27 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13568,4eb66f01-8120-86a9-515a-09a0e3a3357f,1998-09-03 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13569,4eb66f01-8120-86a9-f62d-7576d28eaa62,1998-09-11 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13570,4eb66f01-8120-86a9-38e9-bd215a283f27,1998-10-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13571,4eb66f01-8120-86a9-6c9e-a52b9d8f4d5e,1998-11-12 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13572,4eb66f01-8120-86a9-ae48-7bfa6a2f6eb8,1998-11-26 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13573,4eb66f01-8120-86a9-db95-54b046c7af01,1999-01-07 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13574,4eb66f01-8120-86a9-aae8-d3fd334b4a85,1999-01-28 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13575,4eb66f01-8120-86a9-a009-9af5b473d133,1999-02-04 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13576,4eb66f01-8120-86a9-ccc1-3fdf63f6101d,1999-02-18 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13577,4eb66f01-8120-86a9-2b6c-38050513b050,1999-02-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,23297,815923f9-eb04-c8ab-7cd3-1e3be04c1624,1998-09-06 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23296,815923f9-eb04-c8ab-d4d4-8714d76d7969,1994-10-30 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23295,815923f9-eb04-c8ab-3871-0d6c14475d16,1991-10-27 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23294,815923f9-eb04-c8ab-4d13-5fc0519b9852,1987-10-18 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,13613,4eb66f01-8120-86a9-081e-f76ad90ab7f3,1999-12-16 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13612,4eb66f01-8120-86a9-9e32-1164132342d7,1999-12-09 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13611,4eb66f01-8120-86a9-9582-33cc25206e77,1999-12-02 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13610,4eb66f01-8120-86a9-29d0-2e27847dbeff,1999-11-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13609,4eb66f01-8120-86a9-a2fb-f756d5c9764e,1999-11-09 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13608,4eb66f01-8120-86a9-5ab5-c830f5a93492,1999-11-02 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13607,4eb66f01-8120-86a9-7acb-0f25a74b7ace,1999-10-21 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13606,4eb66f01-8120-86a9-4354-6b9f88df0422,1999-10-14 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13605,4eb66f01-8120-86a9-163f-cff2123b4267,1999-10-07 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13604,4eb66f01-8120-86a9-dc33-82a7560c4017,1999-09-30 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13603,4eb66f01-8120-86a9-98ba-ebcdad840c1f,1999-09-23 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13602,4eb66f01-8120-86a9-41b2-2352afc69194,1999-09-23 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13601,4eb66f01-8120-86a9-d00f-30d96cea77ec,1999-09-16 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13600,4eb66f01-8120-86a9-1459-4c78bfb509e7,1999-09-09 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13599,4eb66f01-8120-86a9-46b4-67bb6a66b482,1999-09-02 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13598,4eb66f01-8120-86a9-d25f-68235ed7f6e6,1999-08-20 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13597,4eb66f01-8120-86a9-65f6-4fa488bdf67b,1999-08-13 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13596,4eb66f01-8120-86a9-3e63-9df3c0a33831,1999-08-05 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13595,4eb66f01-8120-86a9-9071-282836408302,1999-07-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13594,4eb66f01-8120-86a9-7f7b-3b538a801bb9,1999-07-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13593,4eb66f01-8120-86a9-511f-1ec7d3ba4c0e,1999-07-15 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13592,4eb66f01-8120-86a9-2dc7-e0d90308c10f,1999-07-08 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13591,4eb66f01-8120-86a9-41db-0d9415d0d347,1999-06-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13590,4eb66f01-8120-86a9-ba70-c5dbcc291656,1999-06-18 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13589,4eb66f01-8120-86a9-1c52-3e1132748b9d,1999-06-06 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13588,4eb66f01-8120-86a9-3103-e4877d333554,1999-05-30 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13587,4eb66f01-8120-86a9-7596-73575f1fa3f7,1999-05-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13586,4eb66f01-8120-86a9-0d0a-6ca4577cb0d8,1999-05-18 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13585,4eb66f01-8120-86a9-b543-be801be2e544,1999-05-04 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13584,4eb66f01-8120-86a9-1681-ddeb592f8b8b,1999-04-27 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13583,4eb66f01-8120-86a9-cf29-c82bb74485f0,1999-04-15 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13582,4eb66f01-8120-86a9-ebb6-223ff2c88f89,1999-04-08 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13581,4eb66f01-8120-86a9-1649-27197d05cba2,1999-04-01 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13580,4eb66f01-8120-86a9-64dc-7cd4cb2bfcf6,1999-03-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13579,4eb66f01-8120-86a9-9d16-d24feaa0cd4f,1999-03-11 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13578,4eb66f01-8120-86a9-dec0-f4a3dee26b68,1999-03-04 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,23358,815923f9-eb04-c8ab-822a-73b9a81d4628,2011-11-20 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23357,815923f9-eb04-c8ab-1bde-c4f46bf8f60d,2011-11-13 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23356,815923f9-eb04-c8ab-7534-e318c4f9d96b,2011-09-11 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23355,815923f9-eb04-c8ab-2cb3-89bfe527d207,2011-09-04 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23354,815923f9-eb04-c8ab-de18-39a74b1370bb,2011-07-24 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23353,815923f9-eb04-c8ab-99b1-96393d2e82d3,2011-07-17 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23352,815923f9-eb04-c8ab-d7a9-77a8a10b08a8,2011-07-10 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23351,815923f9-eb04-c8ab-ce75-c475e3d2d69b,2011-06-26 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23350,815923f9-eb04-c8ab-8297-b014827b0045,2011-05-29 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23349,815923f9-eb04-c8ab-ee07-f97c3bef4b8c,2011-05-01 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23348,815923f9-eb04-c8ab-2ec3-4aac5dd45793,2011-04-03 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23347,815923f9-eb04-c8ab-061c-c9d2bc97fa70,2011-03-06 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23346,815923f9-eb04-c8ab-49f7-cd5ad170233b,2011-02-06 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23345,815923f9-eb04-c8ab-9d5c-6eddf78cc660,2011-01-09 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23344,815923f9-eb04-c8ab-d0df-e9606b82577e,2010-12-12 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23343,815923f9-eb04-c8ab-b3fd-15320db108f6,2010-11-21 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23342,815923f9-eb04-c8ab-6f69-af52cb418ff1,2010-11-07 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23341,815923f9-eb04-c8ab-8673-e608af13881e,2010-10-24 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23340,815923f9-eb04-c8ab-e6e0-7f007759e12b,2009-11-08 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23339,815923f9-eb04-c8ab-d067-3e300030cbc9,2009-10-25 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23338,815923f9-eb04-c8ab-1880-c7ba988ed461,2008-11-02 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23337,815923f9-eb04-c8ab-1ffd-9de33d3c0993,2008-10-19 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23336,815923f9-eb04-c8ab-583a-1b6bca14e29d,2008-01-22 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23335,815923f9-eb04-c8ab-ab02-9f411160eee4,2007-10-14 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23334,815923f9-eb04-c8ab-472d-71d65d122344,2007-01-27 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23333,815923f9-eb04-c8ab-c8f0-68a3c0f0400a,2006-11-21 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23332,815923f9-eb04-c8ab-6834-f5a6d78ed3fb,2006-11-12 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23331,815923f9-eb04-c8ab-c91e-291dc4e9d22d,2006-10-22 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23330,815923f9-eb04-c8ab-ffd6-799a7a9a3c7c,2006-10-15 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23329,815923f9-eb04-c8ab-1321-4652284891b0,2006-10-08 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23328,815923f9-eb04-c8ab-834e-79764eef3823,2006-09-10 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23327,815923f9-eb04-c8ab-0a64-965be500d1cf,2006-02-01 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23326,815923f9-eb04-c8ab-74b7-d8b5a85322cd,2005-10-23 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23325,815923f9-eb04-c8ab-d7fb-050c64dacc2b,2005-10-16 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23324,815923f9-eb04-c8ab-5e46-5668aa5cd9dd,2005-10-02 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23323,815923f9-eb04-c8ab-c4d7-9b3cef9322ad,2005-01-30 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23322,815923f9-eb04-c8ab-b822-2d11fd7b2cbb,2004-12-19 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23321,815923f9-eb04-c8ab-a93d-9a774c36360d,2004-12-12 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23320,815923f9-eb04-c8ab-1918-617f0969fee9,2004-11-28 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23319,815923f9-eb04-c8ab-c3d5-4ff8e45a3dd9,2004-10-31 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23318,815923f9-eb04-c8ab-6581-c0134bc6d0b0,2004-10-10 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23317,815923f9-eb04-c8ab-5120-7d874db12291,2004-10-03 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23316,815923f9-eb04-c8ab-a6ad-d04e76591901,2004-09-26 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23315,815923f9-eb04-c8ab-f3d0-3c8f404a672b,2004-09-05 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23314,815923f9-eb04-c8ab-8b39-ee7a8be9261a,2004-08-08 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23313,815923f9-eb04-c8ab-9a96-e80be89f4b09,2004-07-11 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23312,815923f9-eb04-c8ab-0b68-d7669673b8a0,2004-06-13 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23311,815923f9-eb04-c8ab-64a7-affb9adbcf8e,2004-05-16 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23310,815923f9-eb04-c8ab-339b-583f51f0983f,2004-03-28 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23309,815923f9-eb04-c8ab-98a0-18b75b858aea,2003-10-01 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23308,815923f9-eb04-c8ab-e73a-c08072f51603,2003-09-28 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23307,815923f9-eb04-c8ab-cb1f-7f3c25d8d92c,2003-09-21 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23306,815923f9-eb04-c8ab-0e4c-8fab60f903e4,2003-02-05 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23305,815923f9-eb04-c8ab-fefc-7a1028cb66b2,2002-12-07 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23304,815923f9-eb04-c8ab-4409-a6f0d1ecaf87,2002-10-08 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23303,815923f9-eb04-c8ab-9034-f6aa7cdd9840,2002-09-29 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23302,815923f9-eb04-c8ab-8c80-c61afe897e54,2002-09-22 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23301,815923f9-eb04-c8ab-62a9-2fe39c2c3580,2002-09-15 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23300,815923f9-eb04-c8ab-5238-e75e7263e8ad,2002-09-08 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23299,815923f9-eb04-c8ab-4931-af1ede9d35b1,2002-05-07 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,23298,815923f9-eb04-c8ab-8733-1ce079f45ae2,2001-09-18 > death 1968-08-24,encounter of a patient whose dates were corrupted
+DT03,encounters,13435,4eb66f01-8120-86a9-8ed8-d2a47605edf7,1942-12-03 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13436,4eb66f01-8120-86a9-4365-59dd26a1c9d6,1946-12-12 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13437,4eb66f01-8120-86a9-4175-ea4c309dc260,1955-12-22 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13438,4eb66f01-8120-86a9-4612-72f9eb443f65,1962-01-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13439,4eb66f01-8120-86a9-e195-41dd2a7fd210,1964-02-06 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13440,4eb66f01-8120-86a9-38d5-7b1d21dc8f56,1968-02-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13441,4eb66f01-8120-86a9-07ca-5a2fb6f4042d,1968-03-21 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13442,4eb66f01-8120-86a9-3859-b43de7cc3cf2,1973-03-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13443,4eb66f01-8120-86a9-663a-4b9ba917e288,1973-04-11 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13444,4eb66f01-8120-86a9-87c5-cb0d9452fec3,1975-07-03 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13445,4eb66f01-8120-86a9-2578-1710d14ecc5e,1976-04-15 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13446,4eb66f01-8120-86a9-1fb2-af82ebaa247a,1977-12-15 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13447,4eb66f01-8120-86a9-c591-94772d54230e,1979-03-15 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13448,4eb66f01-8120-86a9-5fd9-81572850cb8a,1980-01-06 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13449,4eb66f01-8120-86a9-44ae-a0e5be1a53a1,1984-05-03 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13450,4eb66f01-8120-86a9-60ff-ad5b3ffe94a3,1986-11-13 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13451,4eb66f01-8120-86a9-8ebe-dbe61666e07c,1989-03-23 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13452,4eb66f01-8120-86a9-7d16-a8410b0671b5,1989-07-13 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13453,4eb66f01-8120-86a9-0b3a-c120224a257c,1990-01-11 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13454,4eb66f01-8120-86a9-ea7c-780863599a98,1990-01-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13455,4eb66f01-8120-86a9-b0e2-bb481088246a,1990-07-12 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13456,4eb66f01-8120-86a9-c57c-051c1cbf6da4,1990-07-13 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13457,4eb66f01-8120-86a9-8816-251f7c4267b6,1991-07-18 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13458,4eb66f01-8120-86a9-810e-864e62bce4b5,1991-07-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13459,4eb66f01-8120-86a9-3fd5-6159688d5e81,1991-08-15 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13460,4eb66f01-8120-86a9-72fc-2be7d4fa51ca,1991-08-22 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13461,4eb66f01-8120-86a9-4fc0-1b69e1d18f52,1991-08-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13462,4eb66f01-8120-86a9-96b3-eb37eb5f7d64,1991-09-05 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13463,4eb66f01-8120-86a9-5b80-37cf7fdbd85c,1991-09-12 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13464,4eb66f01-8120-86a9-4ac3-c5aa60f61f56,1991-09-19 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13465,4eb66f01-8120-86a9-597c-aba63c2c29e8,1991-11-07 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13466,4eb66f01-8120-86a9-23a4-81d4c7dd8913,1991-11-21 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13467,4eb66f01-8120-86a9-625a-c4b9666f8cab,1992-04-30 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13468,4eb66f01-8120-86a9-626b-4a4508355a29,1992-07-23 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13469,4eb66f01-8120-86a9-1aa7-dff5414bb86f,1992-07-30 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13470,4eb66f01-8120-86a9-2fe0-84a34d811d26,1992-08-06 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13471,4eb66f01-8120-86a9-b21f-016f2c1f7d3f,1992-11-19 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13472,4eb66f01-8120-86a9-59df-7f73150e3d9b,1992-11-26 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13473,4eb66f01-8120-86a9-565a-fa0a6ed15795,1992-12-03 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13474,4eb66f01-8120-86a9-ffbc-e1439b0f3f90,1992-12-10 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13475,4eb66f01-8120-86a9-4963-37c0a85d95d3,1992-12-17 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13494,4eb66f01-8120-86a9-eaaf-30b4d3e9c1a4,1993-01-14 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13476,4eb66f01-8120-86a9-2d65-121ae95e03e4,1992-12-31 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13495,4eb66f01-8120-86a9-886c-15a44bb35562,1993-07-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13496,4eb66f01-8120-86a9-c975-0ba9d75ed12e,1993-07-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13497,4eb66f01-8120-86a9-f86c-8d338aa3d271,1993-07-29 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13498,4eb66f01-8120-86a9-3fe9-84f878141fde,1993-08-12 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13499,4eb66f01-8120-86a9-6be7-81468a802fab,1993-08-19 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13500,4eb66f01-8120-86a9-b9d6-9ee78e7e0558,1993-10-27 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13501,4eb66f01-8120-86a9-4963-9b86cead547a,1993-11-18 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13508,4eb66f01-8120-86a9-9ad0-9fc276bc2bcb,1993-11-25 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13509,4eb66f01-8120-86a9-44cd-6480d16ea274,1993-12-02 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13510,4eb66f01-8120-86a9-0def-f6c0e9406e3f,1993-12-09 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13511,4eb66f01-8120-86a9-d130-0204cf8333f7,1993-12-16 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13522,4eb66f01-8120-86a9-46a8-14266dd881ef,1993-12-23 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT03,encounters,13523,4eb66f01-8120-86a9-370b-da875ea82f95,1993-12-30 > death 1923-10-10,encounter of a patient whose dates were corrupted
+DT07,procedures,104628,31b97b2b-f45f-b096-4188-674f82732bc2,2024-02-18 14:12:50+00 outside 2024-04-29 14:12:50+00 - 2024-04-29 14:27:50+00,clinical event attached to an injected encounter
+DT07,procedures,104629,31b97b2b-f45f-b096-4188-674f82732bc2,2024-02-18 14:12:50+00 outside 2024-04-29 14:12:50+00 - 2024-04-29 14:27:50+00,clinical event attached to an injected encounter
+DT07,procedures,104630,31b97b2b-f45f-b096-4188-674f82732bc2,2024-02-18 14:12:50+00 outside 2024-04-29 14:12:50+00 - 2024-04-29 14:27:50+00,clinical event attached to an injected encounter
+DT07,procedures,115427,620ce73a-b3f4-542d-3138-6f023290feb6,1959-07-23 06:30:33+00 outside 1967-01-14 10:00:00+00 - 1967-01-14 12:48:00+00,clinical event attached to an injected encounter
+DT07,procedures,117755,79f344d5-22de-95fb-b9e2-59d4f9ed2a0f,1979-08-01 03:39:33+00 outside 2027-08-01 03:39:33+00 - 2027-08-01 05:39:33+00,clinical event attached to an injected encounter
+DT07,procedures,133119,b8e555a0-cb99-7ce1-0eea-cec058ec9cb7,2020-10-11 12:32:12+00 outside 2019-12-19 09:00:00+00 - 2019-12-19 09:15:00+00,clinical event attached to an injected encounter
+DT07,procedures,134306,891e0ac0-9afd-46be-a702-6d610ab2f372,2024-09-03 19:53:49+00 outside 2024-09-03 20:25:05+00 - 2024-09-03 19:53:49+00,clinical event attached to an injected encounter
+DT07,procedures,163527,7c5657dd-76fe-8d0c-b084-8dbe4de395c8,2020-11-28 09:05:03+00 outside 2027-11-28 09:05:03+00 - 2027-11-28 09:47:56+00,clinical event attached to an injected encounter
+DT07,procedures,167425,b3305a3e-4d8e-82de-38af-da1cad50ec93,1994-08-22 18:13:37+00 outside 2027-08-22 18:13:37+00 - 2027-08-22 18:32:00+00,clinical event attached to an injected encounter
+DT07,procedures,104502,31b97b2b-f45f-b096-e4bd-4584f677d52e,2019-12-08 14:12:50+00 outside 2020-03-07 14:12:50+00 - 2020-03-07 14:27:50+00,clinical event attached to an injected encounter
+DT07,procedures,104627,31b97b2b-f45f-b096-4188-674f82732bc2,2024-02-18 14:12:50+00 outside 2024-04-29 14:12:50+00 - 2024-04-29 14:27:50+00,clinical event attached to an injected encounter
+DT07,procedures,89689,88862e46-11e7-d3cb-c8c0-81d29d58a727,2024-06-16 22:31:20+00 outside 2024-09-17 20:57:13+00 - 2024-09-17 21:55:10+00,clinical event attached to an injected encounter
+DT07,procedures,96363,ab122ffa-e34e-8ea4-6f4e-a9315cac12e5,2017-04-30 14:11:58+00 outside 2027-04-30 14:11:58+00 - 2027-04-30 14:48:47+00,clinical event attached to an injected encounter
+DT07,procedures,104501,31b97b2b-f45f-b096-e4bd-4584f677d52e,2019-12-08 14:12:50+00 outside 2020-03-07 14:12:50+00 - 2020-03-07 14:27:50+00,clinical event attached to an injected encounter
+DT07,procedures,104626,31b97b2b-f45f-b096-4188-674f82732bc2,2024-02-18 14:12:50+00 outside 2024-04-29 14:12:50+00 - 2024-04-29 14:27:50+00,clinical event attached to an injected encounter
+DT07,procedures,5496,7eecb627-86ba-e651-fc01-ad36dcb5848b,2026-06-07 06:49:51+00 outside 2027-06-07 06:49:51+00 - 2027-06-07 07:24:24+00,clinical event attached to an injected encounter
+DT07,procedures,5957,e50c4c9e-ff92-aa51-abd6-58d74796838d,2012-01-19 05:36:45+00 outside 1971-03-05 09:00:00+00 - 1971-03-05 12:44:00+00,clinical event attached to an injected encounter
+DT07,procedures,6415,e50c4c9e-ff92-aa51-1cd1-753d844bb461,2015-02-19 12:41:45+00 outside 1971-03-05 09:00:00+00 - 1971-03-05 11:32:00+00,clinical event attached to an injected encounter
+DT07,procedures,22478,a043ba56-78fa-e9ca-9b46-c25674bfee9b,2018-07-17 18:07:36+00 outside 2018-07-17 18:37:59+00 - 2018-07-17 18:07:36+00,clinical event attached to an injected encounter
+DT07,procedures,26759,537a159c-396f-b4a8-8143-a9333c86f2f7,2009-09-28 22:10:37+00 outside 2012-04-23 10:00:00+00 - 2012-04-23 10:15:00+00,clinical event attached to an injected encounter
+DT07,procedures,32690,0d4bd39d-f545-8997-0ef8-281db3f326f0,2021-10-17 20:05:52+00 outside 2021-10-17 21:04:03+00 - 2021-10-17 20:05:52+00,clinical event attached to an injected encounter
+DT07,procedures,32691,0d4bd39d-f545-8997-0ef8-281db3f326f0,2021-10-17 20:05:52+00 outside 2021-10-17 21:04:03+00 - 2021-10-17 20:05:52+00,clinical event attached to an injected encounter
+DT07,procedures,33850,3ee1b7b8-6833-1840-30bf-ea4a438ca278,1988-07-08 08:31:00+00 outside 1993-11-05 10:00:00+00 - 1993-11-05 12:40:00+00,clinical event attached to an injected encounter
+DT07,procedures,45502,05014593-66c2-da2b-0177-ca498dc54839,2017-04-24 17:12:10+00 outside 2017-04-24 18:06:04+00 - 2017-04-24 17:12:10+00,clinical event attached to an injected encounter
+DT07,procedures,48309,323a1390-2666-65c3-ba0a-6f330d2399de,2008-12-14 06:28:05+00 outside 2012-03-22 10:00:00+00 - 2012-03-22 13:39:00+00,clinical event attached to an injected encounter
+DT07,procedures,69029,a8b12c07-40cc-651e-b2c3-ab1d2bf13124,2000-02-29 18:01:07+00 outside 2000-09-09 18:01:07+00 - 2000-09-09 18:31:09+00,clinical event attached to an injected encounter
+DT07,procedures,69030,a8b12c07-40cc-651e-b2c3-ab1d2bf13124,2000-02-29 18:31:09+00 outside 2000-09-09 18:01:07+00 - 2000-09-09 18:31:09+00,clinical event attached to an injected encounter
+DT07,procedures,69031,a8b12c07-40cc-651e-b2c3-ab1d2bf13124,2000-02-29 18:45:41+00 outside 2000-09-09 18:01:07+00 - 2000-09-09 18:31:09+00,clinical event attached to an injected encounter
+DT07,procedures,71905,1c4071d8-c940-7bf5-b17b-906ade6b414d,2024-05-16 17:59:31+00 outside 2024-05-18 08:09:19+00 - 2024-05-16 17:59:31+00,clinical event attached to an injected encounter
+DT07,procedures,71906,1c4071d8-c940-7bf5-b17b-906ade6b414d,2024-05-16 18:22:33+00 outside 2024-05-18 08:09:19+00 - 2024-05-16 17:59:31+00,clinical event attached to an injected encounter
+DT07,procedures,71907,1c4071d8-c940-7bf5-b17b-906ade6b414d,2024-05-16 18:49:45+00 outside 2024-05-18 08:09:19+00 - 2024-05-16 17:59:31+00,clinical event attached to an injected encounter
+DT07,procedures,71908,1c4071d8-c940-7bf5-b17b-906ade6b414d,2024-05-16 19:14:19+00 outside 2024-05-18 08:09:19+00 - 2024-05-16 17:59:31+00,clinical event attached to an injected encounter
+DT07,procedures,71909,1c4071d8-c940-7bf5-b17b-906ade6b414d,2024-05-18 04:14:19+00 outside 2024-05-18 08:09:19+00 - 2024-05-16 17:59:31+00,clinical event attached to an injected encounter
+DT07,procedures,76232,ba49277e-1cfe-f341-b8d4-ba14918e6a4b,2015-02-07 08:07:57+00 outside 2018-10-24 10:00:00+00 - 2018-10-24 13:26:00+00,clinical event attached to an injected encounter
+DT07,procedures,81746,0a501f83-3de2-bdf9-5ea8-82e69e20804a,2018-01-01 09:34:17+00 outside 2013-04-09 09:00:00+00 - 2013-04-09 09:15:00+00,clinical event attached to an injected encounter
+DT07,procedures,89685,88862e46-11e7-d3cb-c8c0-81d29d58a727,2024-06-16 20:57:13+00 outside 2024-09-17 20:57:13+00 - 2024-09-17 21:55:10+00,clinical event attached to an injected encounter
+DT07,procedures,89686,88862e46-11e7-d3cb-c8c0-81d29d58a727,2024-06-16 20:57:13+00 outside 2024-09-17 20:57:13+00 - 2024-09-17 21:55:10+00,clinical event attached to an injected encounter
+DT07,procedures,89687,88862e46-11e7-d3cb-c8c0-81d29d58a727,2024-06-16 21:55:10+00 outside 2024-09-17 20:57:13+00 - 2024-09-17 21:55:10+00,clinical event attached to an injected encounter
+DT07,procedures,89688,88862e46-11e7-d3cb-c8c0-81d29d58a727,2024-06-16 22:17:11+00 outside 2024-09-17 20:57:13+00 - 2024-09-17 21:55:10+00,clinical event attached to an injected encounter
+DT11,immunizations,6557,a8b12c07-40cc-651e-b2c3-ab1d2bf13124,2000-02-29 vs 2000-09-09,clinical event attached to an injected encounter
+DT11,immunizations,12204,b8e555a0-cb99-7ce1-0eea-cec058ec9cb7,2020-10-11 vs 2019-12-19,clinical event attached to an injected encounter
+DT11,immunizations,12205,b8e555a0-cb99-7ce1-0eea-cec058ec9cb7,2020-10-11 vs 2019-12-19,clinical event attached to an injected encounter
+DT11,immunizations,12206,b8e555a0-cb99-7ce1-0eea-cec058ec9cb7,2020-10-11 vs 2019-12-19,clinical event attached to an injected encounter
+DT11,immunizations,12207,b8e555a0-cb99-7ce1-0eea-cec058ec9cb7,2020-10-11 vs 2019-12-19,clinical event attached to an injected encounter
+DT11,immunizations,12208,b8e555a0-cb99-7ce1-0eea-cec058ec9cb7,2020-10-11 vs 2019-12-19,clinical event attached to an injected encounter
+DU01,patients,130,329de5da-706b-ac95-8bf6-d6193f8c84f1,,original row of an injected duplicate patient
+DU01,patients,247,3500dc24-33e0-9636-2e73-c76175a88076,,original row of an injected duplicate patient
+DU01,patients,751,9ade5633-2ac6-caba-8c73-8128f0c3616c,,original row of an injected duplicate patient
+DU01,patients,51,baa60157-8d1d-fdd9-f26f-44cc8a42f0eb,,original row of an injected duplicate patient
+DU02,encounters,45680,03c79703-91f2-6734-e5c7-5f7a0a09c596,,original row of an injected duplicate encounter
+DU02,encounters,39076,31b97b2b-f45f-b096-4188-674f82732bc2,,original row of an injected duplicate encounter
+DU02,encounters,39052,31b97b2b-f45f-b096-e4bd-4584f677d52e,,original row of an injected duplicate encounter
+DU02,encounters,13944,3500dc24-33e0-9636-991e-263932e8b123,,original row of an injected duplicate encounter
+DU02,encounters,30286,42cf6f24-83e3-f92f-b907-b7d111b7cc3b,,original row of an injected duplicate encounter
+DU02,encounters,57479,50fa3510-466e-be62-fd7e-372636520958,,original row of an injected duplicate encounter
+DU02,encounters,33926,88862e46-11e7-d3cb-c8c0-81d29d58a727,,original row of an injected duplicate encounter
+DU02,encounters,48133,a44b4049-f6a2-87b8-7461-e7f5410077c6,,original row of an injected duplicate encounter
+DU02,encounters,26447,a8b12c07-40cc-651e-b2c3-ab1d2bf13124,,original row of an injected duplicate encounter
+DU02,encounters,29501,ba49277e-1cfe-f341-c0a0-11faa1308a2e,,original row of an injected duplicate encounter
+DU02,encounters,4281,d5fb553e-17ec-b9ad-81ea-2c78dd5f9d72,,original row of an injected duplicate encounter
+DU02,encounters,42010,f929a5d5-cff3-3298-f5b4-68acf9e251cd,,original row of an injected duplicate encounter
+DU03,providers,237,2029c58d-9909-30c6-8b0d-04c976333d1f,,original row of an injected duplicate provider
+DU03,providers,84,4610d169-826c-3a24-bccb-68842048021a,,original row of an injected duplicate provider
+DU06,encounters,42010,f929a5d5-cff3-3298-f5b4-68acf9e251cd,,original row of an injected duplicate encounter
+DU06,encounters,4281,d5fb553e-17ec-b9ad-81ea-2c78dd5f9d72,,original row of an injected duplicate encounter
+DU06,encounters,29501,ba49277e-1cfe-f341-c0a0-11faa1308a2e,,original row of an injected duplicate encounter
+DU06,encounters,48133,a44b4049-f6a2-87b8-7461-e7f5410077c6,,original row of an injected duplicate encounter
+DU06,encounters,57479,50fa3510-466e-be62-fd7e-372636520958,,original row of an injected duplicate encounter
+DU06,encounters,30286,42cf6f24-83e3-f92f-b907-b7d111b7cc3b,,original row of an injected duplicate encounter
+DU06,encounters,13944,3500dc24-33e0-9636-991e-263932e8b123,,original row of an injected duplicate encounter
+DU06,encounters,45680,03c79703-91f2-6734-e5c7-5f7a0a09c596,,original row of an injected duplicate encounter
+DU07,procedures,8388,7faab79d-1b0b-92af-03b5-63cb29276288,866148006,original row of an injected duplicate event
+DU07,procedures,55820,51bd3ad4-4257-c128-050a-8bdc0a764a6c,274788003,original row of an injected duplicate event
+DU07,procedures,62957,c9075a82-2255-45f1-1ae3-4ab9651071d7,84478008,original row of an injected duplicate event
+DU07,procedures,160082,c0cfe362-66d2-63c2-8264-8b400d59ea3d,389153003,original row of an injected duplicate event
+DU08,immunizations,11128,48ff5d4f-bf32-05f9-7190-b20c39e37346,208,original row of an injected duplicate event
+DU08,immunizations,10994,9e00ca1d-2326-5811-1a88-334c19c2bc06,140,original row of an injected duplicate event
+OR10,conditions,31094,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,conditions,31095,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,conditions,31096,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,conditions,31097,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,conditions,34198,dd650716-078c-aea7-a21a-6a62f3139dba,event patient dd650716-078c-aea7-00a3-d166024e7ca4 vs encounter patient 28e03136-0087-cc90-5916-5c22b4455c13,clinical event attached to an injected encounter
+OR10,procedures,35851,b0225c55-cbf0-991f-ff1c-4e2e318f84c9,event patient b0225c55-cbf0-991f-43d0-19ea36df8cd3 vs encounter patient 2fa26ccb-046f-5b7e-35c8-e48aadeb87e4,clinical event attached to an injected encounter
+OR10,procedures,58735,a822b24a-4a52-f168-5509-33492e425213,event patient a822b24a-4a52-f168-f33b-0c75418f9611 vs encounter patient 59b5277e-0d88-5f9c-1d2b-907a36c2eb9a,clinical event attached to an injected encounter
+OR10,procedures,58736,a822b24a-4a52-f168-5509-33492e425213,event patient a822b24a-4a52-f168-f33b-0c75418f9611 vs encounter patient 59b5277e-0d88-5f9c-1d2b-907a36c2eb9a,clinical event attached to an injected encounter
+OR10,procedures,77749,10c77f7b-bee2-2607-d596-b75e96bd2aa0,event patient 10c77f7b-bee2-2607-5504-d4d9c1f5303b vs encounter patient 3f569431-df3a-6b4b-3c28-01c16d8a351f,clinical event attached to an injected encounter
+OR10,procedures,90064,88862e46-11e7-d3cb-fb9d-ce32e698dbb3,event patient 88862e46-11e7-d3cb-2fb7-58796d5b52ee vs encounter patient 4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,clinical event attached to an injected encounter
+OR10,procedures,90065,88862e46-11e7-d3cb-fb9d-ce32e698dbb3,event patient 88862e46-11e7-d3cb-2fb7-58796d5b52ee vs encounter patient 4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,clinical event attached to an injected encounter
+OR10,procedures,90066,88862e46-11e7-d3cb-fb9d-ce32e698dbb3,event patient 88862e46-11e7-d3cb-2fb7-58796d5b52ee vs encounter patient 4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,clinical event attached to an injected encounter
+OR10,procedures,135870,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,procedures,135871,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,procedures,135872,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,procedures,135873,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,procedures,135874,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,procedures,135875,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,medications,8248,b0225c55-cbf0-991f-ff1c-4e2e318f84c9,event patient b0225c55-cbf0-991f-43d0-19ea36df8cd3 vs encounter patient 2fa26ccb-046f-5b7e-35c8-e48aadeb87e4,clinical event attached to an injected encounter
+OR10,medications,25469,88862e46-11e7-d3cb-fb9d-ce32e698dbb3,event patient 88862e46-11e7-d3cb-2fb7-58796d5b52ee vs encounter patient 4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,clinical event attached to an injected encounter
+OR10,medications,25470,88862e46-11e7-d3cb-fb9d-ce32e698dbb3,event patient 88862e46-11e7-d3cb-2fb7-58796d5b52ee vs encounter patient 4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,clinical event attached to an injected encounter
+OR10,medications,38248,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,medications,38249,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,medications,38250,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,medications,38251,9bea1dfe-3443-071c-ca33-85f66d943e2f,event patient 9bea1dfe-3443-071c-9cad-89ed7a5c6570 vs encounter patient 182e1571-5035-f336-5d99-4b3c93d7fc75,clinical event attached to an injected encounter
+OR10,medications,25466,88862e46-11e7-d3cb-fb9d-ce32e698dbb3,event patient 88862e46-11e7-d3cb-2fb7-58796d5b52ee vs encounter patient 4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,clinical event attached to an injected encounter
+OR10,immunizations,9635,998ae6ae-1352-37bd-8652-a2c15bb7ab28,event patient 998ae6ae-1352-37bd-4917-f9147d405b61 vs encounter patient 282b43b5-34b9-084d-217a-91fa0a078569,clinical event attached to an injected encounter
+OR10,immunizations,9636,998ae6ae-1352-37bd-8652-a2c15bb7ab28,event patient 998ae6ae-1352-37bd-4917-f9147d405b61 vs encounter patient 282b43b5-34b9-084d-217a-91fa0a078569,clinical event attached to an injected encounter
+OR10,immunizations,9637,998ae6ae-1352-37bd-8652-a2c15bb7ab28,event patient 998ae6ae-1352-37bd-4917-f9147d405b61 vs encounter patient 282b43b5-34b9-084d-217a-91fa0a078569,clinical event attached to an injected encounter
+OR10,immunizations,9638,998ae6ae-1352-37bd-8652-a2c15bb7ab28,event patient 998ae6ae-1352-37bd-4917-f9147d405b61 vs encounter patient 282b43b5-34b9-084d-217a-91fa0a078569,clinical event attached to an injected encounter
+OR10,immunizations,9639,998ae6ae-1352-37bd-8652-a2c15bb7ab28,event patient 998ae6ae-1352-37bd-4917-f9147d405b61 vs encounter patient 282b43b5-34b9-084d-217a-91fa0a078569,clinical event attached to an injected encounter
+OR10,immunizations,15453,cd964148-8fb1-5fc3-27af-4be8f9768d73,event patient cd964148-8fb1-5fc3-8afd-8dbc97def1c0 vs encounter patient 3f1e3d33-4520-b33f-4a3e-5f523c837315,clinical event attached to an injected encounter
+OR10,medications,25464,88862e46-11e7-d3cb-fb9d-ce32e698dbb3,event patient 88862e46-11e7-d3cb-2fb7-58796d5b52ee vs encounter patient 4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,clinical event attached to an injected encounter
+OR10,medications,21606,10c77f7b-bee2-2607-d596-b75e96bd2aa0,event patient 10c77f7b-bee2-2607-5504-d4d9c1f5303b vs encounter patient 3f569431-df3a-6b4b-3c28-01c16d8a351f,clinical event attached to an injected encounter
+OR10,medications,25467,88862e46-11e7-d3cb-fb9d-ce32e698dbb3,event patient 88862e46-11e7-d3cb-2fb7-58796d5b52ee vs encounter patient 4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,clinical event attached to an injected encounter
+OR10,conditions,8531,b0225c55-cbf0-991f-ff1c-4e2e318f84c9,event patient b0225c55-cbf0-991f-43d0-19ea36df8cd3 vs encounter patient 2fa26ccb-046f-5b7e-35c8-e48aadeb87e4,clinical event attached to an injected encounter

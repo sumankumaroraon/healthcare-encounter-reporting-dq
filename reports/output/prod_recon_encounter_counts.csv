@@ -1,0 +1,12 @@
+step,description,join_type,row_count,change_vs_previous_step,change_vs_source,status
+1,Source: encounters table,base,64622,,0,PASS
+2,INNER JOIN patients,inner,64622,0,0,PASS
+3,+ INNER JOIN providers,inner,64622,0,0,PASS
+4,+ INNER JOIN organizations,inner,64622,0,0,PASS
+5,+ INNER JOIN payers,inner,64622,0,0,PASS
+6,Reporting view vw_encounter_detail (4 LEFT JOINs),left,64622,0,0,PASS
+7,Distinct encounter IDs in vw_encounter_detail,distinct,64622,0,0,PASS
+8,Roll-up: SUM(vw_encounter_class_summary.encounters),rollup,64622,0,0,PASS
+9,Roll-up: SUM(vw_encounter_volume_monthly.encounters),rollup,64622,0,0,PASS
+10,Roll-up: SUM(vw_encounter_by_payer.encounters),rollup,64622,0,0,PASS
+11,Roll-up: SUM(vw_patient_utilization.encounters),rollup,64622,0,0,PASS

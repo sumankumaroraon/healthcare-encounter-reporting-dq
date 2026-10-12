@@ -1,0 +1,5 @@
+table_name,source_rows,linked_rows,unlinked_rows,linked_pct
+conditions,39922,39918,4,99.99
+procedures,175059,175054,5,100.00
+medications,48843,48839,4,99.99
+immunizations,16462,16459,3,99.98

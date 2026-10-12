@@ -1,0 +1,35 @@
+group,error_type,expected_check,injected,detected,by_expected_check,detection_rate
+A,null conditions.encounter,MK08,4,4,4,1.0
+A,null encounters.organization,MK05,5,5,5,1.0
+A,null encounters.patient,MK03,8,8,8,1.0
+A,null encounters.payer,MK06,5,5,5,1.0
+A,null encounters.provider,MK04,6,6,6,1.0
+A,null immunizations.encounter,MK11,3,3,3,1.0
+A,null procedures.patient,MK09,4,4,4,1.0
+B,condition linked to wrong patient,OR10,4,4,4,1.0
+B,orphan encounters.organization,OR03,5,5,5,1.0
+B,orphan encounters.patient,OR01,8,8,8,1.0
+B,orphan encounters.payer,OR04,3,3,3,1.0
+B,orphan encounters.provider,OR02,5,5,5,1.0
+B,orphan medications.encounter,OR08,4,4,4,1.0
+B,orphan procedures.encounter,OR07,5,5,5,1.0
+B,orphan providers.organization,OR05,3,3,3,1.0
+C,encounter id reused for a different visit,DU02,4,4,4,1.0
+C,exact duplicate encounter row,DU02/DU06,8,8,8,1.0
+C,immunization recorded twice,DU08,2,2,2,1.0
+C,patient id reused with conflicting demographics,DU01,4,4,4,1.0
+C,procedure recorded twice,DU07,4,4,4,1.0
+C,provider id duplicated,DU03,2,2,2,1.0
+D,condition stop before start,DT09,4,4,4,1.0
+D,death date before birth date,DT05,2,2,2,1.0
+D,encounter dated after patient death,DT03,5,5,5,1.0
+D,encounter dated before patient birth,DT02,6,6,6,1.0
+D,encounter dated in the future (year typo),DT04,5,5,5,1.0
+D,encounter stop before start (swapped),DT01,8,8,8,1.0
+D,immunization date not on encounter date,DT11,4,4,4,1.0
+D,medication stop before start,DT10,2,2,2,1.0
+D,procedure dated before its encounter,DT07,5,5,5,1.0
+E,birth date off by one year,none (expected miss),3,0,0,0.0
+E,encounter assigned to a different valid provider,none (expected miss),4,0,0,0.0
+E,encounter billed to a different valid payer,none (expected miss),3,0,0,0.0
+E,encounter date shifted 20 days (still plausible),none (expected miss),3,0,0,0.0

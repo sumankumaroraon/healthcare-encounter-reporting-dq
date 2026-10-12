@@ -1,0 +1,151 @@
+error_id,group,error_type,table_name,row_id,column,original_value,injected_value,expected_check,note,checks_fired,detected,detected_by_expected_check
+E001,A,null encounters.patient,encounters,55033,patient,1430749d-e9a1-d81a-9447-f66f80f49474,,MK03,,MK03,True,True
+E002,A,null encounters.patient,encounters,11556,patient,4ee283b5-ea75-a3d4-88d1-a3bacac9dc57,,MK03,,MK03,True,True
+E003,A,null encounters.patient,encounters,23936,patient,c9075a82-2255-45f1-5aef-6f4079a3a879,,MK03,,MK03,True,True
+E004,A,null encounters.patient,encounters,5155,patient,8d49b89b-a676-fe33-335d-24850b73b7bd,,MK03,,MK03,True,True
+E005,A,null encounters.patient,encounters,41342,patient,8bafb373-bb24-fd0b-4e2e-e0e41317e9c2,,MK03,,MK03,True,True
+E006,A,null encounters.patient,encounters,23612,patient,00113f28-391c-b77e-f829-e118c9ee14e9,,MK03,,MK03,True,True
+E007,A,null encounters.patient,encounters,1703,patient,c86b62e9-2ff6-af41-5a13-42e3a8a0acfe,,MK03,,MK03,True,True
+E008,A,null encounters.patient,encounters,30193,patient,6587d6da-d0c5-8ffc-2e37-078fd685b54d,,MK03,,MK03,True,True
+E009,A,null encounters.provider,encounters,42175,provider,5247568d-7758-343b-b15a-c38d4c842d2f,,MK04,,MK04,True,True
+E010,A,null encounters.provider,encounters,55464,provider,e7f9af6f-0e10-3085-91fa-065be2a5182a,,MK04,,MK04,True,True
+E011,A,null encounters.provider,encounters,11454,provider,e7f9af6f-0e10-3085-91fa-065be2a5182a,,MK04,,MK04,True,True
+E012,A,null encounters.provider,encounters,19272,provider,efcafaab-fd9c-3490-a442-fdb7ff04b330,,MK04,,MK04,True,True
+E013,A,null encounters.provider,encounters,6357,provider,5a94853c-7db3-36d1-8165-a0433ef8cbc0,,MK04,,MK04,True,True
+E014,A,null encounters.provider,encounters,10700,provider,da140c91-ab5d-3b4d-b7e1-c7a9eaac72ad,,MK04,,MK04,True,True
+E015,A,null encounters.organization,encounters,33286,organization,fdc65cc2-e09a-3865-91b4-1bf2dc17bbc0,,MK05,,MK05,True,True
+E016,A,null encounters.organization,encounters,39037,organization,75987afa-a675-385a-8d0c-5fe4dab2e5d1,,MK05,,MK05,True,True
+E017,A,null encounters.organization,encounters,48633,organization,7bd1637b-3a6b-3ec6-8fa7-d7678a14c645,,MK05,,MK05,True,True
+E018,A,null encounters.organization,encounters,7621,organization,e9bedeec-e577-357e-9b0e-947bb8fbad92,,MK05,,MK05,True,True
+E019,A,null encounters.organization,encounters,41646,organization,6961a887-9c40-3f41-a03c-b55b1c9aca74,,MK05,,MK05,True,True
+E020,A,null encounters.payer,encounters,10151,payer,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,MK06,,MK06,True,True
+E021,A,null encounters.payer,encounters,9434,payer,a735bf55-83e9-331a-899d-a82a60b9f60c,,MK06,,MK06,True,True
+E022,A,null encounters.payer,encounters,21890,payer,df166300-5a78-3502-a46a-832842197811,,MK06,,MK06,True,True
+E023,A,null encounters.payer,encounters,17954,payer,0133f751-9229-3cfd-815f-b6d4979bdd6a,,MK06,,MK06,True,True
+E024,A,null encounters.payer,encounters,14628,payer,df166300-5a78-3502-a46a-832842197811,,MK06,,MK06,True,True
+E025,A,null conditions.encounter,conditions,10810,encounter,14bba23b-2192-3143-91b0-08e7f996383b,,MK08,,MK08,True,True
+E026,A,null conditions.encounter,conditions,33147,encounter,9893087a-9bf6-4c98-63c0-35d6127ce1a6,,MK08,,MK08,True,True
+E027,A,null conditions.encounter,conditions,513,encounter,2f9e6a5f-ef4a-33a2-4e54-11e2a11b8b83,,MK08,,MK08,True,True
+E028,A,null conditions.encounter,conditions,26475,encounter,3a7e4b70-24b6-c061-5aa3-3a1f24d2ec83,,MK08,,MK08,True,True
+E029,A,null procedures.patient,procedures,28918,patient,f06346b0-1396-56c7-936c-13821fa36318,,MK09,,MK09,True,True
+E030,A,null procedures.patient,procedures,83608,patient,f241862c-6887-2717-0742-a40cb1400465,,MK09,,MK09,True,True
+E031,A,null procedures.patient,procedures,63938,patient,6b419f09-d540-0758-511d-dc9fd7fb188c,,MK09,,MK09,True,True
+E032,A,null procedures.patient,procedures,34204,patient,3ee1b7b8-6833-1840-c885-d7406dbafb1f,,MK09,,MK09,True,True
+E033,A,null immunizations.encounter,immunizations,15882,encounter,bebb1415-8f76-c4a6-c749-23dc15110c9c,,MK11,,MK11,True,True
+E034,A,null immunizations.encounter,immunizations,4939,encounter,bcbf319c-95d6-27a2-fbfb-593043c43ea2,,MK11,,MK11,True,True
+E035,A,null immunizations.encounter,immunizations,10916,encounter,acfd79eb-2f8e-8112-1d79-d9991f6b943a,,MK11,,MK11,True,True
+E036,B,orphan encounters.patient,encounters,56515,patient,dd650716-078c-aea7-00a3-d166024e7ca4,28e03136-0087-cc90-5916-5c22b4455c13,OR01,,OR01,True,True
+E037,B,orphan encounters.patient,encounters,39203,patient,998ae6ae-1352-37bd-4917-f9147d405b61,282b43b5-34b9-084d-217a-91fa0a078569,OR01,,OR01,True,True
+E038,B,orphan encounters.patient,encounters,22301,patient,a822b24a-4a52-f168-f33b-0c75418f9611,59b5277e-0d88-5f9c-1d2b-907a36c2eb9a,OR01,,OR01,True,True
+E039,B,orphan encounters.patient,encounters,61842,patient,cd964148-8fb1-5fc3-8afd-8dbc97def1c0,3f1e3d33-4520-b33f-4a3e-5f523c837315,OR01,,OR01,True,True
+E040,B,orphan encounters.patient,encounters,51524,patient,9bea1dfe-3443-071c-9cad-89ed7a5c6570,182e1571-5035-f336-5d99-4b3c93d7fc75,OR01,,OR01,True,True
+E041,B,orphan encounters.patient,encounters,34160,patient,88862e46-11e7-d3cb-2fb7-58796d5b52ee,4634b16c-7c7f-86e4-4f8d-6b3739b3cd76,OR01,,OR01,True,True
+E042,B,orphan encounters.patient,encounters,13356,patient,b0225c55-cbf0-991f-43d0-19ea36df8cd3,2fa26ccb-046f-5b7e-35c8-e48aadeb87e4,OR01,,OR01,True,True
+E043,B,orphan encounters.patient,encounters,29929,patient,10c77f7b-bee2-2607-5504-d4d9c1f5303b,3f569431-df3a-6b4b-3c28-01c16d8a351f,OR01,,OR01,True,True
+E044,B,orphan encounters.provider,encounters,43653,provider,f192230e-dd46-3fc6-9763-a84941ac4db1,427b2ea1-efca-0954-29cc-372de0591d64,OR02,,OR02,True,True
+E045,B,orphan encounters.provider,encounters,60583,provider,7e926892-2a47-3984-83c6-c2ac508ca2ad,3ffe86b3-5d0f-294a-0bf6-094e26db935d,OR02,,OR02,True,True
+E046,B,orphan encounters.provider,encounters,2195,provider,62e6b340-37d4-33d3-b32a-66b9312eb048,73cd57d2-165b-52ee-7eaf-acbbb8cf079e,OR02,,OR02,True,True
+E047,B,orphan encounters.provider,encounters,37293,provider,4a5fe803-c891-34b1-ae7b-4848bfbde45c,0784a2b7-2d2b-04e5-2dda-854420cb81a1,OR02,,OR02,True,True
+E048,B,orphan encounters.provider,encounters,51565,provider,62e6b340-37d4-33d3-b32a-66b9312eb048,5d72c18e-d9ba-bbcc-2838-f4805e54cfd1,OR02,,OR02,True,True
+E049,B,orphan encounters.organization,encounters,26915,organization,e9bedeec-e577-357e-9b0e-947bb8fbad92,71b6f0fa-f919-f343-4f7a-d035fafa26d2,OR03,,OR03,True,True
+E050,B,orphan encounters.organization,encounters,36636,organization,ec65e63a-af46-3040-9606-bd7a195af77c,1483de61-a62c-acf2-7939-54918d77d100,OR03,,OR03,True,True
+E051,B,orphan encounters.organization,encounters,24553,organization,de16b8c3-9109-361a-a0fa-16f44cb054fe,0306632e-229a-37fd-261b-57ed84ce077b,OR03,,OR03,True,True
+E052,B,orphan encounters.organization,encounters,39176,organization,5c58f1ce-13c4-3322-b51c-4cfb1f400a7a,240be933-7d5c-5a52-55fe-64ce0d11f482,OR03,,OR03,True,True
+E053,B,orphan encounters.organization,encounters,51301,organization,9e5ac038-a623-3536-8545-3d395cf83ef5,3e61e9b7-07a5-098b-0be3-c59f8b068f4e,OR03,,OR03,True,True
+E054,B,orphan encounters.payer,encounters,23265,payer,734afbd6-4794-363b-9bc0-6a3981533ed5,4cfa16df-c72f-2a00-4831-ef18bba6c6a9,OR04,,OR04,True,True
+E055,B,orphan encounters.payer,encounters,54959,payer,d31fccc3-1767-390d-966a-22a5156f4219,71fa9066-4945-f803-758e-073aa6d4f131,OR04,,OR04,True,True
+E056,B,orphan encounters.payer,encounters,828,payer,d18ef2e6-ef40-324c-be54-34a5ee865625,1818cf87-1613-370c-7897-6aa9a0a4cfec,OR04,,OR04,True,True
+E057,B,orphan providers.organization,providers,153,organization,f1ce4de6-66e2-38d7-8a3f-19fbd04a0d91,546e02cd-09ed-34fd-45e5-4d3688e56b55,OR05,,OR05,True,True
+E058,B,orphan providers.organization,providers,246,organization,56f4e578-1612-3c6e-9dfe-33ccedd2c9ef,7568e240-e4be-084e-1ddb-9198feae82eb,OR05,,OR05,True,True
+E059,B,orphan providers.organization,providers,77,organization,f3ebbc5a-f53d-3122-8143-a953b7ae4c51,4cb662ed-6241-fdeb-6839-1ddcdde80bf3,OR05,,OR05,True,True
+E060,B,orphan procedures.encounter,procedures,23586,encounter,bf3f42af-78a8-6042-ca2a-1a907215658f,4dac17f8-a466-c5a9-6db4-c127cbab7fec,OR07,,OR07,True,True
+E061,B,orphan procedures.encounter,procedures,107752,encounter,d0e6e8ae-0287-b49e-9452-12aafb720a6b,506db3e7-ae34-b79d-2921-97f678f1d049,OR07,,OR07,True,True
+E062,B,orphan procedures.encounter,procedures,23372,encounter,9d1268f9-312e-45e2-f8bf-3f33db08b51d,53f1200a-83e0-ebb9-2b48-97a44ce0635d,OR07,,OR07,True,True
+E063,B,orphan procedures.encounter,procedures,83027,encounter,5ed60c7f-19c0-7f0d-6ffd-c1f6e0c56f0e,559472d0-4809-5706-106d-96df68be8db3,OR07,,OR07,True,True
+E064,B,orphan procedures.encounter,procedures,138076,encounter,0ceb1c33-df3c-3afc-5bfe-763c6f3029a9,23d6c4fc-3c55-6e66-0430-1da62abd9b56,OR07,,OR07,True,True
+E065,B,orphan medications.encounter,medications,45246,encounter,7b0d30ea-8abe-64b5-ffec-20264c1d4ac9,420efe85-f834-d413-546c-c642fe3018e9,OR08,,OR08,True,True
+E066,B,orphan medications.encounter,medications,3303,encounter,9c48fd5b-6c60-41df-f42f-c5345f2ce987,70cab56e-ff27-8885-2d72-a3aadf05685d,OR08,,OR08,True,True
+E067,B,orphan medications.encounter,medications,20639,encounter,a5e1fc63-314d-c770-9d08-87f14f3deea2,28ca78ed-6384-dfdf-2826-3b566e021f3d,OR08,,OR08,True,True
+E068,B,orphan medications.encounter,medications,4092,encounter,cce320a1-1905-197f-4c79-785cfa45c67d,0f15b278-89eb-a31a-54e3-31473a23023e,OR08,,OR08,True,True
+E069,B,condition linked to wrong patient,conditions,10203,patient,dca6f7ea-7142-dc8b-3f6f-8aa8ed94ec66,c27e4aaa-a00e-abd1-34f6-4154b490d37c,OR10,,OR10,True,True
+E070,B,condition linked to wrong patient,conditions,11553,patient,ce0271e7-87a1-69bd-562f-466cfcde9c14,a7fb02f5-48ee-7703-e374-29569c26369a,OR10,,OR10,True,True
+E071,B,condition linked to wrong patient,conditions,18884,patient,0a501f83-3de2-bdf9-6abc-71ea8779126a,b7e59b3d-6728-4638-e4a1-4755487c8562,OR10,,OR10,True,True
+E072,B,condition linked to wrong patient,conditions,32721,patient,8ea1de82-9c17-ceb0-2c19-ddc966acb581,3fb6f0cf-9fd5-beaf-5212-711218b2786a,OR10,,OR10,True,True
+E073,C,exact duplicate encounter row,encounters,64623,(row),copy of _row_id 48133,appended,DU02/DU06,,"DU02, DU06",True,True
+E074,C,exact duplicate encounter row,encounters,64624,(row),copy of _row_id 4281,appended,DU02/DU06,,"DU02, DU06",True,True
+E075,C,exact duplicate encounter row,encounters,64625,(row),copy of _row_id 57479,appended,DU02/DU06,,"DU02, DU06",True,True
+E076,C,exact duplicate encounter row,encounters,64626,(row),copy of _row_id 30286,appended,DU02/DU06,,"DU02, DU06",True,True
+E077,C,exact duplicate encounter row,encounters,64627,(row),copy of _row_id 13944,appended,DU02/DU06,,"DU02, DU06",True,True
+E078,C,exact duplicate encounter row,encounters,64628,(row),copy of _row_id 45680,appended,DU02/DU06,,"DU02, DU06",True,True
+E079,C,exact duplicate encounter row,encounters,64629,(row),copy of _row_id 42010,appended,DU02/DU06,,"DU02, DU06",True,True
+E080,C,exact duplicate encounter row,encounters,64630,(row),copy of _row_id 29501,appended,DU02/DU06,,"DU02, DU06",True,True
+E081,C,encounter id reused for a different visit,encounters,64631,(row),copy of _row_id 39052,appended,DU02,,DU02,True,True
+E082,C,encounter id reused for a different visit,encounters,64632,(row),copy of _row_id 33926,appended,DU02,,DU02,True,True
+E083,C,encounter id reused for a different visit,encounters,64633,(row),copy of _row_id 26447,appended,DU02,,DU02,True,True
+E084,C,encounter id reused for a different visit,encounters,64634,(row),copy of _row_id 39076,appended,DU02,,DU02,True,True
+E085,C,patient id reused with conflicting demographics,patients,1142,(row),copy of _row_id 130,appended,DU01,,DU01,True,True
+E086,C,patient id reused with conflicting demographics,patients,1143,(row),copy of _row_id 247,appended,DU01,,DU01,True,True
+E087,C,patient id reused with conflicting demographics,patients,1144,(row),copy of _row_id 751,appended,DU01,,DU01,True,True
+E088,C,patient id reused with conflicting demographics,patients,1145,(row),copy of _row_id 51,appended,DU01,,DU01,True,True
+E089,C,provider id duplicated,providers,313,(row),copy of _row_id 84,appended,DU03,,DU03,True,True
+E090,C,provider id duplicated,providers,314,(row),copy of _row_id 237,appended,DU03,,DU03,True,True
+E091,C,procedure recorded twice,procedures,175056,(row),copy of _row_id 62957,appended,DU07,,DU07,True,True
+E092,C,procedure recorded twice,procedures,175057,(row),copy of _row_id 8388,appended,DU07,,DU07,True,True
+E093,C,procedure recorded twice,procedures,175058,(row),copy of _row_id 160082,appended,DU07,,DU07,True,True
+E094,C,procedure recorded twice,procedures,175059,(row),copy of _row_id 55820,appended,DU07,,DU07,True,True
+E095,C,immunization recorded twice,immunizations,16461,(row),copy of _row_id 10994,appended,DU08,,DU08,True,True
+E096,C,immunization recorded twice,immunizations,16462,(row),copy of _row_id 11128,appended,DU08,,DU08,True,True
+E097,D,encounter stop before start (swapped),encounters,8287,start/stop,2014-02-06T05:52:15Z / 2014-02-06T06:07:15Z,2014-02-06T06:07:15Z / 2014-02-06T05:52:15Z,DT01,,DT01,True,True
+E098,D,encounter stop before start (swapped),encounters,51028,start/stop,2024-09-03T19:53:49Z / 2024-09-03T20:25:05Z,2024-09-03T20:25:05Z / 2024-09-03T19:53:49Z,DT01,,DT01,True,True
+E099,D,encounter stop before start (swapped),encounters,8239,start/stop,2018-07-17T18:07:36Z / 2018-07-17T18:37:59Z,2018-07-17T18:37:59Z / 2018-07-17T18:07:36Z,DT01,,DT01,True,True
+E100,D,encounter stop before start (swapped),encounters,27323,start/stop,2024-05-16T17:59:31Z / 2024-05-18T08:09:19Z,2024-05-18T08:09:19Z / 2024-05-16T17:59:31Z,DT01,,DT01,True,True
+E101,D,encounter stop before start (swapped),encounters,15651,start/stop,2021-05-25T20:17:18Z / 2021-05-25T20:32:18Z,2021-05-25T20:32:18Z / 2021-05-25T20:17:18Z,DT01,,DT01,True,True
+E102,D,encounter stop before start (swapped),encounters,17220,start/stop,2017-04-24T17:12:10Z / 2017-04-24T18:06:04Z,2017-04-24T18:06:04Z / 2017-04-24T17:12:10Z,DT01,,DT01,True,True
+E103,D,encounter stop before start (swapped),encounters,43065,start/stop,2021-02-12T03:54:09Z / 2021-02-12T04:09:09Z,2021-02-12T04:09:09Z / 2021-02-12T03:54:09Z,DT01,,DT01,True,True
+E104,D,encounter stop before start (swapped),encounters,11863,start/stop,2021-10-17T20:05:52Z / 2021-10-17T21:04:03Z,2021-10-17T21:04:03Z / 2021-10-17T20:05:52Z,DT01,,DT01,True,True
+E105,D,encounter dated before patient birth,encounters,2781,start,2015-02-19T12:41:45Z,1971-03-05T09:00:00Z,DT02,,DT02,True,True
+E106,D,encounter dated before patient birth,encounters,50483,start,2020-10-11T12:32:12Z,2019-12-19T09:00:00Z,DT02,,DT02,True,True
+E107,D,encounter dated before patient birth,encounters,31093,start,2018-01-01T09:34:17Z,2013-04-09T09:00:00Z,DT02,,DT02,True,True
+E108,D,encounter dated before patient birth,encounters,16727,start,1993-06-25T23:12:24Z,1917-03-13T09:00:00Z,DT02,,DT02,True,True
+E109,D,encounter dated before patient birth,encounters,2430,start,2012-01-19T05:36:45Z,1971-03-05T09:00:00Z,DT02,,DT02,True,True
+E110,D,encounter dated before patient birth,encounters,23601,start,2024-10-02T09:22:37Z,2008-09-13T09:00:00Z,DT02,,DT02,True,True
+E111,D,encounter dated after patient death,encounters,12647,start,1988-07-08T08:31:00Z,1993-11-05T10:00:00Z,DT03,,DT03,True,True
+E112,D,encounter dated after patient death,encounters,29318,start,2015-02-07T08:07:57Z,2018-10-24T10:00:00Z,DT03,,DT03,True,True
+E113,D,encounter dated after patient death,encounters,18860,start,2008-12-14T06:28:05Z,2012-03-22T10:00:00Z,DT03,,DT03,True,True
+E114,D,encounter dated after patient death,encounters,43613,start,1959-07-23T06:30:33Z,1967-01-14T10:00:00Z,DT03,,DT03,True,True
+E115,D,encounter dated after patient death,encounters,9638,start,2009-09-28T22:10:37Z,2012-04-23T10:00:00Z,DT03,,DT03,True,True
+E116,D,encounter dated in the future (year typo),encounters,61902,start,1994-08-22T18:13:37Z,2027-08-22T18:13:37Z,DT04,,"DT03, DT04",True,True
+E117,D,encounter dated in the future (year typo),encounters,36268,start,2017-04-30T14:11:58Z,2027-04-30T14:11:58Z,DT04,,DT04,True,True
+E118,D,encounter dated in the future (year typo),encounters,2095,start,2026-06-07T06:49:51Z,2027-06-07T06:49:51Z,DT04,,DT04,True,True
+E119,D,encounter dated in the future (year typo),encounters,60504,start,2020-11-28T09:05:03Z,2027-11-28T09:05:03Z,DT04,,DT04,True,True
+E120,D,encounter dated in the future (year typo),encounters,44521,start,1979-08-01T03:39:33Z,2027-08-01T03:39:33Z,DT04,,"DT03, DT04",True,True
+E121,D,death date before birth date,patients,241,deathdate,2000-01-10,1923-10-10,DT05,was 2000-01-10,DT05,True,True
+E122,D,death date before birth date,patients,396,deathdate,2011-12-10,1968-08-24,DT05,was 2011-12-10,DT05,True,True
+E123,D,procedure dated before its encounter,procedures,51893,start,2020-10-27T19:08:47Z,2020-10-24T17:12:31Z,DT07,,DT07,True,True
+E124,D,procedure dated before its encounter,procedures,31551,start,2009-09-06T06:29:44Z,2009-09-03T06:29:44Z,DT07,,DT07,True,True
+E125,D,procedure dated before its encounter,procedures,83203,start,2022-09-13T09:31:04Z,2022-09-10T09:19:26Z,DT07,,DT07,True,True
+E126,D,procedure dated before its encounter,procedures,160808,start,2017-05-30T00:10:08Z,2017-05-26T23:38:19Z,DT07,,DT07,True,True
+E127,D,procedure dated before its encounter,procedures,125671,start,2018-12-22T23:39:19Z,2018-12-19T23:39:19Z,DT07,,DT07,True,True
+E128,D,condition stop before start,conditions,39070,stop,2026-05-31,2026-04-30,DT09,,DT09,True,True
+E129,D,condition stop before start,conditions,32120,stop,2024-04-09,2023-11-12,DT09,,DT09,True,True
+E130,D,condition stop before start,conditions,28861,stop,2022-06-10,2022-02-16,DT09,,DT09,True,True
+E131,D,condition stop before start,conditions,10997,stop,2025-01-24,2024-12-25,DT09,,DT09,True,True
+E132,D,immunization date not on encounter date,immunizations,3779,date,2002-01-08T20:18:08Z,2002-01-13T20:18:08Z,DT11,,DT11,True,True
+E133,D,immunization date not on encounter date,immunizations,10910,date,1983-08-17T03:39:33Z,1983-08-22T03:39:33Z,DT11,,DT11,True,True
+E134,D,immunization date not on encounter date,immunizations,11345,date,2018-03-09T23:40:31Z,2018-03-14T23:40:31Z,DT11,,DT11,True,True
+E135,D,immunization date not on encounter date,immunizations,1314,date,2022-04-04T03:33:52Z,2022-04-09T03:33:52Z,DT11,,DT11,True,True
+E136,D,medication stop before start,medications,8034,stop,2025-09-30T19:25:17Z,2025-07-02T19:25:17Z,DT10,,DT10,True,True
+E137,D,medication stop before start,medications,47949,stop,2017-02-08T03:55:13Z,2016-10-13T03:55:13Z,DT10,,DT10,True,True
+E138,E,encounter assigned to a different valid provider,encounters,37288,provider,4a5fe803-c891-34b1-ae7b-4848bfbde45c,87d82f36-85c6-3e75-8062-fa24e56c42f5,none (expected miss),referentially valid value,,False,False
+E139,E,encounter assigned to a different valid provider,encounters,450,provider,b357c04a-3641-323b-97ee-aafc90b5c9c4,a9b28b6b-6bdc-33f5-a420-47d573be64c7,none (expected miss),referentially valid value,,False,False
+E140,E,encounter assigned to a different valid provider,encounters,29847,provider,e7f9af6f-0e10-3085-91fa-065be2a5182a,9f30e1aa-5fde-3ee0-8619-920ebe004f9a,none (expected miss),referentially valid value,,False,False
+E141,E,encounter assigned to a different valid provider,encounters,48071,provider,f192230e-dd46-3fc6-9763-a84941ac4db1,8744e039-bcf9-3916-a3b8-ea8fbc760685,none (expected miss),referentially valid value,,False,False
+E142,E,encounter billed to a different valid payer,encounters,55143,payer,0133f751-9229-3cfd-815f-b6d4979bdd6a,734afbd6-4794-363b-9bc0-6a3981533ed5,none (expected miss),referentially valid value,,False,False
+E143,E,encounter billed to a different valid payer,encounters,11493,payer,a735bf55-83e9-331a-899d-a82a60b9f60c,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,none (expected miss),referentially valid value,,False,False
+E144,E,encounter billed to a different valid payer,encounters,18661,payer,df166300-5a78-3502-a46a-832842197811,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,none (expected miss),referentially valid value,,False,False
+E145,E,encounter date shifted 20 days (still plausible),encounters,35077,start,2023-04-13T01:14:36Z,2023-03-24T01:14:36Z,none (expected miss),date stays inside the patient's lifetime and the data window,,False,False
+E146,E,encounter date shifted 20 days (still plausible),encounters,1786,start,2016-12-01T04:20:32Z,2016-11-11T04:20:32Z,none (expected miss),date stays inside the patient's lifetime and the data window,,False,False
+E147,E,encounter date shifted 20 days (still plausible),encounters,13519,start,2025-10-16T23:21:26Z,2025-09-26T23:21:26Z,none (expected miss),date stays inside the patient's lifetime and the data window,,False,False
+E148,E,birth date off by one year,patients,531,birthdate,1980-12-25,1981-12-25,none (expected miss),still before the patient's first encounter,,False,False
+E149,E,birth date off by one year,patients,879,birthdate,1992-02-16,1993-02-15,none (expected miss),still before the patient's first encounter,,False,False
+E150,E,birth date off by one year,patients,741,birthdate,1963-06-04,1964-06-03,none (expected miss),still before the patient's first encounter,,False,False

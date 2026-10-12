@@ -1,0 +1,13 @@
+encounterclass,visit_description,encounters,unique_patients
+ambulatory,Encounter for problem (procedure),7061,432
+wellness,General examination of patient (procedure),5495,828
+ambulatory,Encounter for check up (procedure),5448,991
+wellness,Well child visit (procedure),3183,356
+ambulatory,Prenatal visit (regime/therapy),2884,226
+ambulatory,Encounter for symptom (procedure),2749,930
+outpatient,Encounter for check up (procedure),2212,506
+outpatient,Patient encounter procedure (procedure),1931,239
+urgentcare,Urgent care clinic (environment),1919,315
+ambulatory,Outpatient procedure (procedure),1576,35
+emergency,Emergency room admission (procedure),1360,551
+outpatient,Administration of vaccine to produce active immunity (procedure),1273,689

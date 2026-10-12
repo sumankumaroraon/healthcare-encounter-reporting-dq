@@ -1,0 +1,2 @@
+patients,deceased_patients,encounters,encounters_in_window,patients_in_window,providers,organizations,payers,conditions,procedures,medications,immunizations,first_encounter,last_encounter
+1141,141,64622,44424,1046,312,312,10,39922,175055,48843,16460,1917-01-31,2026-10-16

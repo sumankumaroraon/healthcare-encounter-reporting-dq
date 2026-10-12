@@ -1,0 +1,12 @@
+,value
+injected_errors,150
+structural_errors,137
+plausible_but_wrong_errors,13
+detected,137
+detected_structural,137
+detected_by_expected_check,137
+missed,13
+checks_fired_in_test,30
+new_flagged_rows,451
+secondary_flag_rows,314
+untraced_false_positives,0
